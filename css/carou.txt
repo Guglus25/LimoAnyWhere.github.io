@@ -1,0 +1,11 @@
+<div class="carousel-inner">
+        <div class="carousel-item image-contain1 active" style="background-image: url(imagen/C1.jpeg);">
+          <!-- <img src="imagen/C1_1.jpg" class="bd-placeholder-img" alt="..."> -->
+        </div>
+        <div class="carousel-item image-contain1"  style="background-image: url(imagen/C2.jpeg);">
+          <!-- <img src="imagen/C2.jpeg" class="bd-placeholder-img" alt="..."> -->
+        </div>
+        <div class="carousel-item image-contain1"  style="background-image: url(imagen/C3.jpeg);">
+          <!-- <img src="imagen/C3.jpeg" class="bd-placeholder-img" alt="..."> -->
+        </div>
+      </div>
