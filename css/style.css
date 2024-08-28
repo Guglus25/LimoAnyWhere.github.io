@@ -1,0 +1,111 @@
+.logo{
+    margin-bottom: -40px !important;
+    position: relative; 
+}
+
+.card-img-top{
+margin-top: -50px !important;
+position: relative;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  
+
+.next1  {
+    right: -70px !important;
+    justify-content:right;
+    width: 5%;
+}
+
+.prev1 {
+    left: -70px !important;
+    justify-content:left;
+    width: 5%;
+}
+
+
+/* estilo de whatsapp */
+
+.chatpopup-widget-close,
+.chatpopup-widget__body-header,
+.chatpopup-widget__trigger,
+.chatpopup-welcome-msg {
+    background-color: #1fad00;
+    color: #ffffff;
+}
+
+.chatpopup-widget {
+    right: 12px;
+    align-items: flex-end;
+}
+
+.chatpopup-widget-close {
+    right: 0;
+}
+
+.chatpopup_jwi {
+    right: 12px;
+}
+
+.chatpopup-welcome-msg {
+    border: 1px solid #ccc;
+    color: #999;
+    background: #fff;
+    line-height: 1em;
+    padding: 8px 15px 5px 10px;
+    position: relative;
+}
+
+.chatpopup-welcome-msg:before {
+    content: "\1F4AC";
+    display: inline;
+    top: 0;
+    position: relative;
+    font-size: 1.1em;
+    margin-right: 5px;
+}
+
+.chatpopup-welcome-msg:after {
+    content: "|";
+    position: absolute;
+    left: 32px;
+    top: 6px;
+    animation: cursor 2.5s infinite;
+}
+
+@keyframes cursor {
+    0% {
+        opacity: 1;
+    }
+
+    25% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    75% {
+        opacity: 0;
+    }
+}
+
+
+
+
+
+
